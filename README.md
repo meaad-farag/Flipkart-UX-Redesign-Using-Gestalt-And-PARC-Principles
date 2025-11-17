@@ -1,5 +1,5 @@
 
-### **Flipkart UX Redesign Using Gestalt & PARC Principles**
+
 
 # Flipkart UX Redesign Using Gestalt & PARC Principles
 
